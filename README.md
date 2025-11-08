@@ -29,7 +29,7 @@ Data Visualization: Built a two page interactive dashboards that answers stakeho
 # Best/Worst Sellers Analysis Page
 
 # Key Analysis and Findings
-# Performance and Product Popularity
+ Performance and Product Popularity
 * Average Order Value (AOV) is Low: The AOV of $38.40 is a key metric showing the average money spent per transaction. This suggests there is a significant          opportunity for the business to implement effective upselling and cross-selling strategies (e.g., adding drinks or sides) to increase the value of each order.
 * Dominant Size and Category: The Large size is the most popular, and the Classic category contributes the most to overall revenue and quantity sold. This           concentration indicates a strong preference but also a risk if demand for that specific product mix changes.
 * Clear Worst Seller: The Brie Carre Pizza is a major underperformer, ranking last across revenue, quantity, and total orders. This signals a product that should    be reviewed for potential removal, recipe/price change, or targeted marketing to improve its dismal sales.
