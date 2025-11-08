@@ -26,9 +26,9 @@ Data Visualization: Built a two page interactive dashboards that answers stakeho
 
 # Dashboard
  Home Pizza Sales Analysis Page 
-! [Home Page] (https://github.com/0xstanleyy/-Restaurant-Sales-and-Operations-Performance-Metric/blob/main/Home%20Page.png)
+! [Home Page](https://github.com/0xstanleyy/-Restaurant-Sales-and-Operations-Performance-Metric/blob/main/Home%20Page.png)
  Best/Worst Sellers Analysis Page
-! [Best/Worst Sellers Page] (https://github.com/0xstanleyy/-Restaurant-Sales-and-Operations-Performance-Metric/blob/main/Best%20and%20Worst%20Sellers%20Page.png)
+! [Best/Worst Sellers Page](https://github.com/0xstanleyy/-Restaurant-Sales-and-Operations-Performance-Metric/blob/main/Best%20and%20Worst%20Sellers%20Page.png)
 
 # Key Analysis and Findings
  Performance and Product Popularity
